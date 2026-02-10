@@ -1,0 +1,447 @@
+/* Condensed (75%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 75%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-CnUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 75%;
+}
+
+/* Semi-Condensed (87.5%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 87.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-NrUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 87.5%;
+}
+
+/* Normal (100%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 100%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-StdUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 100%;
+}
+
+/* Semi-Expanded (112.5%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 112.5%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-sWdUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 112.5%;
+}
+
+/* Expanded (125%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 125%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-WdUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 125%;
+}
+
+/* Extra-Expanded (150%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 150%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-xWdUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 150%;
+}
+
+/* Ultra-Expanded (200%) */
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdTh.woff2') format('woff2');
+    font-weight: 100;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdxLt.woff2') format('woff2');
+    font-weight: 200;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdLt.woff2') format('woff2');
+    font-weight: 300;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdRg.woff2') format('woff2');
+    font-weight: 400;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdMd.woff2') format('woff2');
+    font-weight: 500;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdBd.woff2') format('woff2');
+    font-weight: 700;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdxBd.woff2') format('woff2');
+    font-weight: 800;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdBl.woff2') format('woff2');
+    font-weight: 900;
+    font-stretch: 200%;
+}
+
+@font-face {
+    font-family: 'Martian Grotesk';
+    src: url('MartianGrotesk-uWdUlt.woff2') format('woff2');
+    font-weight: 1000;
+    font-stretch: 200%;
+}
