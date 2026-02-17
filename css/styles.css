@@ -2,12 +2,41 @@
 @import 'normalize.css';
 @import '../fonts/MartianGrotesk/MartianGrotesk.css';
 
-body {
+:root {
     font-family: 'Martian Grotesk';
-    background-color: #E2E5F3;
+    background-color: #000000;
+    color: #E2E5F3;
 }
 
 h1 {
     font-weight: 1000;
     font-stretch: 200%;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+
+    border-bottom: #E2E5F3 1px solid;
+}
+
+.sections-nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    gap: 1rem;
+
+    list-style: none;
+}
+
+.section-nav__lien {
+    color: #E2E5F3;
+    text-decoration: none;
+    transition: font-weight 75ms ease-in-out;
+}
+
+.section-nav__lien:hover {
+    font-weight: 750;
 }
